@@ -1,4 +1,8 @@
 aaaa
 bbbb
+<<<<<<< HEAD
 cccc
 ddd
+=======
+cccc
+>>>>>>> motozono
